@@ -1,0 +1,36 @@
+# R script
+usmap
+hash
+dplyr
+readxl
+Hmisc
+tidyr
+lubridate
+dplyr
+ggplot2
+stringr
+usmap
+hash
+googlesheets4
+readxl
+
+
+# Python
+selenium
+pandas
+geckodriver
+csv
+difflib
+os
+from __future__ import unicode_literals
+sys
+requests
+json
+re
+
+# for NPI scraping... 
+# need to install geckodriver
+https://tutorialforlinux.com/2018/12/06/centos-7-geckodriver-installation-guide/2/
+
+# need to install firefox
+sudo yum install firefox

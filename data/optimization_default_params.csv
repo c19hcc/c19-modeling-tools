@@ -1,0 +1,36 @@
+param,value,ui_type,unit,min,max,step
+Tmax,365,numeric,1,-1,-1,-1
+population.size,9922576,slider,1,-1,-1,-1
+start_date,3/1/20,date,date,1/31/20,63,7
+initial.infected,2,numeric,1,1,3,1
+b1,0.396969721,slider,1,0.15,1.3,0.05
+b21,0,slider,1,0,0.3,0.1
+b31,0,slider,1,0,0.2,0.1
+HospBedper,2.8,numeric,per 1000 ppl,2,3,0.1
+HospBedOcc,66,numeric,percent,45,75,10
+ICUBedper,0.25,numeric,per 1000 ppl,0.1,0.3,0.05
+ICUBedOcc,68,numeric,percent,-1,-1,-1
+IncFluOcc,0.1,numeric,percent,0,0.2,0.1
+ConvMVCap,0.061919505,numeric,per 1000 ppl,0.03,0.06,0.01
+ContMVCap,0.154798762,numeric,per 1000 ppl,0.12,0.18,0.01
+CrisisMVCap,0.417956656,numeric,per 1000 ppl,0.38,0.45,0.01
+IncFLUMV,0.07,numeric,decimal,0.05,0.09,0.01
+State-Mandated School Closures,0.2,npi,decimal,0.1,0.4,0.1
+Non-Essential Business Closures,0.4,npi,decimal,0.55,0.95,0.1
+Bar/Restaurant Limits,0.1,npi,decimal,0,0.2,0.1
+Large Gatherings Ban,0.2,npi,decimal,0.3,0.7,0.1
+Stay At Home Order,0.7,npi,decimal,0.65,0.95,0.1
+Mandatory Quarantine for Travelers,0,npi,decimal,-1,-1,-1
+R0,2.4,numeric,1,1.8,3.2,0.2
+r,0.14,numeric,per day,0.15,0.3,0.05
+DoublingTime,5,slider,days,3,6,1
+FracAsympto,30,slider,Percent,0,40,10
+IncubPeriod,5.1,slider,days,4.9,5.3,0.1
+FracMild,66,slider,Percent,75,85,5
+DurMildInf,7,slider,days,5,9,1
+FracSevere,28,slider,Percent,12,16,1
+DurHosp,11,slider,days,9,13,1
+FracCritical,6,slider,Percent,3,7,1
+TimeICUDeath,7.5,slider,days,5,10,2.5
+ProbDeath,5.78,slider,percent,5,45,10
+AsymptoCrossSect,1,slider,1,1,3,1

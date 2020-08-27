@@ -1,0 +1,80 @@
+column,source,description,CATEGORY
+f0453110,AHRF.csv,White Population,Population
+f0453210,AHRF.csv,Black/African American Pop,Population
+f0453310,AHRF.csv,Am Indian/Alaska Native Pop,Population
+f0453510,AHRF.csv,Some Other Race Population,Population
+f0453610,AHRF.csv,Hispanic/Latino Population,Population
+f0679218,AHRF.csv,"Civilian Labor Force, 16+",Population
+f0679418,AHRF.csv,"Number Unemployed, 16+",Population
+f0679518,AHRF.csv,"Unemployment Rate, 16+",Population
+f0886817,AHRF.csv,Total Number Hospitals,Healthcare System Characteristics
+f0892117,AHRF.csv,Hospital Beds,Healthcare System Characteristics
+f0913317,AHRF.csv,"Cardiac Intens Cr, Beds Set Up",Healthcare System Characteristics
+f0913917,AHRF.csv,"Med/Surg Intens Cr, Beds Set Up",Healthcare System Characteristics
+f0931717,AHRF.csv,# FTE R.N.s,Healthcare System Characteristics
+f0932017,AHRF.csv,# FTE L.P.N.s & L.V.N.s,Healthcare System Characteristics
+f1130917,AHRF.csv,# FTE Physicians & Dentists,Healthcare System Characteristics
+f1139619,AHRF.csv,Veteran Population Estimate,Population
+f1193515,AHRF.csv,3-Yr Influenza & Pneumonia,Vulnerable Population Health Measures
+f1193615,AHRF.csv,3-Yr Chronic Lower Resp Dis,Vulnerable Population Health Measures
+f1194115,AHRF.csv,3-Yr Total Deaths,Population
+f1198418,AHRF.csv,Population Estimate,Population
+f1256517,AHRF.csv,# Hosp W/Medical/Surg Intens Cr,Healthcare System Characteristics
+f1266417,AHRF.csv,# FTE Medical & Dental Residnts,Healthcare System Characteristics
+f1319118,AHRF.csv,# Eligible for Medicare,Population
+f1321418,AHRF.csv,# Home Health Agencies,Healthcare System Characteristics
+f1321818,AHRF.csv,# Rural Health Clinics,Healthcare System Characteristics
+f1321918,AHRF.csv,# Ambulatory Surgery Centers,Healthcare System Characteristics
+f1322018,AHRF.csv,# Hospices,Healthcare System Characteristics
+f1322317,AHRF.csv,Persons in Poverty,Population
+f1330917,AHRF.csv,"Other Intensive Cr, Bed Set Up",Healthcare System Characteristics
+f1331817,AHRF.csv,# Operating Rooms,Healthcare System Characteristics
+f1332610,AHRF.csv,Asian Population,Population
+f1332710,AHRF.csv,Native Hawaii/Oth Pac Isl Pop,Population
+f1332810,AHRF.csv,Two or more Races Population,Population
+f1348310,AHRF.csv,Median Age,Population
+f1351510,AHRF.csv,Housing Units,Population
+f1392917,AHRF.csv,# Airborne Infection Isol Rooms (Short),Healthcare System Characteristics
+f1393717,AHRF.csv,# Airborne Infection Isol Rooms (Long),Healthcare System Characteristics
+f1408416,AHRF.csv,Food Stamp/SNAP Recipients,Population
+f1419612,AHRF.csv,"Medicaid Eligibles, Total",Population
+f1433613,AHRF.csv,Foreign Born Population,Population
+f1433713,AHRF.csv,# Non-Eng Speaking Persons 5-17,Population
+f1433913,AHRF.csv,"Household Income, Under $10000",Population
+f1434013,AHRF.csv,"Household Income, $10,000-14999",Population
+f1434113,AHRF.csv,"Household Income, $15,000-24999",Population
+f1434213,AHRF.csv,"Household Income, $25,000-49999",Population
+f1434313,AHRF.csv,"Household Income, $50,000-99999",Population
+f1434413,AHRF.csv,"Household Income, $100,000+",Population
+f1440813,AHRF.csv,% Persons Below Poverty Level,Population
+f1461311,AHRF.csv,Median Home Value,Population
+f1461413,AHRF.csv,Median Gross Rent,Population
+f1463510,AHRF.csv,Non-Hispanic/Latino Population,Population
+f1484010,AHRF.csv,Population 65+,Population
+f1491610,AHRF.csv,Percent Urban Population,Population
+f1492110,AHRF.csv,Percent Urban Housing Units,Population
+f1525319,AHRF.csv,# Community Health Centers,Healthcare System Characteristics
+f1546116,AHRF.csv,"MarkEnr, HHld Inc <100% of FPL",Healthcare System Characteristics
+f1547217,AHRF.csv,Pers <65 with Health Insurance,Healthcare System Characteristics
+HPSA.Designation.Population,BCD_HPSA_FCT_DET_PC.csv,Population in Health Professional Shortage Areas,Healthcare System Characteristics
+HPSA.Estimated.Underserved.Population,BCD_HPSA_FCT_DET_PC.csv,Estimated Underserved Population in Health Professional Shortage Areas,Healthcare System Characteristics
+HPSA.Score,BCD_HPSA_FCT_DET_PC.csv,Health Professional Shortage Area Score,Healthcare System Characteristics
+Adult.Obesity,MEREDITH/ACS,Rate of Adult Obesity,Vulnerable Population Health Measures
+Asthma,MEREDITH/ACS,Rate of Asthma,Vulnerable Population Health Measures
+Avg.Res.Per.Day,MEREDITH/ACS,Average Nursing Home Residents Per Day,Vulnerable Population Health Measures
+Cancer,MEREDITH/ACS,Rate of Cancer,Vulnerable Population Health Measures
+COPD,MEREDITH/ACS,Rate of COPD,Vulnerable Population Health Measures
+Current.Smoker.Status,MEREDITH/ACS,Rate of Current Smoker,Vulnerable Population Health Measures
+Diabetes,MEREDITH/ACS,Rate of Diabetes,Vulnerable Population Health Measures
+Heart.Disease,MEREDITH/ACS,Rate of Heart Disease,Vulnerable Population Health Measures
+HIV.Prevalence,MEREDITH/ACS,Rate of HIV Prevalence,Vulnerable Population Health Measures
+Kidney.Disease,MEREDITH/ACS,Rate of Kidney Disease,Vulnerable Population Health Measures
+Organ.Transplant.Pct,MEREDITH/ACS,Rate of Organ Transplants,Vulnerable Population Health Measures
+Percent.of.pop.65.,MEREDITH/ACS,Percent of Population over 65,Population
+Percent.of.pop.AIAN,MEREDITH/ACS,Percent of Population American Indian and Alaska Native,Population
+Total.workers,Migrants_NCFH.csv,Total Migrant Workers,Population
+pop_density,CensusBureau,Population Density,Population
+staffed_beds_perM,DefinitiveHealth,Staffed Hospital Beds per Million,Healthcare System Characteristics
+icu_beds_perM,DefinitiveHealth,Staffed ICU Beds per Million,Healthcare System Characteristics
+nursing_pop_percent,Medicare,Percent of Population in Long Term Care,Population
+fips,NA,NA,

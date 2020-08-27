@@ -1,0 +1,5 @@
+"X.ERROR.tuning.for.Habib.County..WA..nError.in.......data.frame....tmp....resource..value...numeric.0....replacement.has.0.rows..data.has.1.n."
+"ERROR tuning for Habib County, WA 
+Error in `[[<-.data.frame`(`*tmp*`, resource, value = numeric(0)): replacement has 0 rows, data has 1
+"
+NA

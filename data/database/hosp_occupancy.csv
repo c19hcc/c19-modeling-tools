@@ -1,0 +1,55 @@
+"state","occupancy","licensed_beds","staffed_beds"
+"Nation",0.81,1641196,1319885
+"Alabama",0.86,26795,22848
+"Alaska",0.85,760,637
+"Arizona",0.74,16265,11775
+"Arkansas",0.72,24475,17343
+"California",0.87,118516,102287
+"Colorado",0.82,20804,16635
+"Connecticut",0.87,25716,22170
+"Delaware",0.84,4894,4114
+"District of Columbia",0.89,2574,2333
+"Florida",0.88,84373,73004
+"Georgia",0.85,39474,33191
+"Guam",0.45,42,19
+"Hawaii",0.85,4229,3594
+"Idaho",0.7,6194,4113
+"Illinois",0.73,89907,65649
+"Indiana",0.76,51606,38726
+"Iowa",0.77,30116,23024
+"Kansas",0.81,20969,16831
+"Kentucky",0.86,26764,22775
+"Louisiana",0.77,34018,26061
+"Maine",0.89,6546,5821
+"Maryland",0.84,27941,23768
+"Massachusetts",0.86,44001,37447
+"Michigan",0.82,46186,38027
+"Minnesota",0.84,28131,23948
+"Mississippi",0.87,18231,15776
+"Missouri",0.71,54242,37712
+"Montana",0.65,6360,3954
+"Nebraska",0.74,15444,11038
+"Nevada",0.82,7147,5690
+"New Hampshire",0.87,7416,6415
+"New Jersey",0.83,52581,43233
+"New Mexico",0.82,6944,5641
+"New York",0.91,114988,103993
+"North Carolina",0.83,44460,36223
+"North Dakota",0.89,5908,5317
+"Ohio",0.82,87883,71894
+"Oklahoma",0.66,28604,18217
+"Oregon",0.68,1087,7237
+"Pennsylvania",0.87,87770,75674
+"Puerto Rico",0.54,21,191
+"Rhode Island",0.89,8654,7667
+"South Carolina",0.84,20020,16894
+"South Dakota",0.89,6396,5639
+"Tennessee",0.76,36276,27088
+"Texas",0.72,13277,192987
+"Utah",0.71,8496,5618
+"Vermont",0.83,3107,2467
+"Virginia",0.86,32274,27731
+"Washington",0.78,20151,15573
+"West Virginia",0.89,1068,39475
+"Wisconsin",0.77,29051,22184
+"Wyoming",0.77,2962,2318
